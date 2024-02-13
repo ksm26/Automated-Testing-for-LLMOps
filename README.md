@@ -1,4 +1,7 @@
 # 🚀 [Automated Testing for LLMOps](https://www.deeplearning.ai/short-courses/automated-testing-llmops/)
+<p align="center">
+<img src="images/circleci.jpg" height="100"> 
+</p>
 
 💻 Welcome to the "Automated Testing for LLMOps" course! Instructed by Rob Zuber, CTO at CircleCI, this course will teach you how to create a continuous integration (CI) workflow for evaluating your Large Language Model (LLM) applications at every change, enabling faster, safer, and more efficient application development.
 
@@ -8,6 +11,10 @@
 In this course, you will learn the importance of systematic testing in LLM application development and how to implement a continuous integration workflow to catch issues early. Here's what you can expect to learn and experience:
 
 1. 📋 **Robust LLM Evaluations**: Write robust evaluations covering common problems like hallucinations, data drift, and harmful or offensive output.
+<p align="center">
+<img src="images/2_3.png" height="400"> 
+</p>
+
 2. ⚙️ **Continuous Integration Workflow**: Build a CI workflow to automatically evaluate every change to your LLM application.
 3. 🔄 **Orchestrating CI Workflow**: Orchestrate your CI workflow to run specific evaluations at different stages of development.
 
