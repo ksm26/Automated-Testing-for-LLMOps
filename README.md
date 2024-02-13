@@ -16,6 +16,10 @@ In this course, you will learn the importance of systematic testing in LLM appli
 </p>
 
 2. ⚙️ **Continuous Integration Workflow**: Build a CI workflow to automatically evaluate every change to your LLM application.
+<p align="center">
+<img src="images/3_3.png" height="200"> 
+</p>
+
 3. 🔄 **Orchestrating CI Workflow**: Orchestrate your CI workflow to run specific evaluations at different stages of development.
 
 ## Key Points
