@@ -21,6 +21,9 @@ In this course, you will learn the importance of systematic testing in LLM appli
 </p>
 
 3. 🔄 **Orchestrating CI Workflow**: Orchestrate your CI workflow to run specific evaluations at different stages of development.
+<p align="center">
+<img src="images/3_1.png" height="400"> 
+</p>
 
 ## Key Points
 - 🧪 Learn how LLM-based testing differs from traditional software testing and implement rules-based testing to assess your LLM application.
